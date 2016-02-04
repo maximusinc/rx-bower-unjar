@@ -1,6 +1,6 @@
 {
   "name": "rx-bower-unjar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extract content from jar arhive",
   "main": "index.js",
   "dependencies": {
