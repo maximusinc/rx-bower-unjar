@@ -1,0 +1,31 @@
+{
+  "name": "rx-bower-unjar",
+  "version": "1.0.0",
+  "description": "extract content from jar arhive",
+  "main": "index.js",
+  "dependencies": {
+    "xmldoc": "~0.1.0",
+    "q": "~1.0.0",
+    "unzip2": "~0.2.0",
+    "glob": "~6.0.4",
+    "fstream": "~1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximusinc/rx-bower-unjar.git"
+  },
+  "keywords": [
+    "jar",
+    "unjar",
+    "bower"
+  ],
+  "author": "maximus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximusinc/rx-bower-unjar/issues"
+  },
+  "homepage": "https://github.com/maximusinc/rx-bower-unjar#readme"
+}
